@@ -19,6 +19,15 @@ The server replies immediately to avoid Twilio timeouts and, for media, follows 
 
 ---
 
+## Video Demo
+
+Watch a quick demo of the WhatsApp AI Assistant in action:
+
+- Google Drive : https://drive.google.com/file/d/1foCfST3HAQ7QjlMCePyKxTsZFFyCVFVN/view?pli=1
+
+
+---
+
 ## Requirements
 
 - Node.js 18+
